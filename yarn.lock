@@ -1497,10 +1497,10 @@
     tweetnacl "^1.0.3"
     type-fest "^2.19.0"
 
-"@openzeppelin/contracts-upgradeable@4.5.0":
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.5.0.tgz#1aceb1303611e3b8e416e031bb9f8f211fbbbf8b"
-  integrity sha512-5540xxycH2aDFI3e+5Mqd0GDeozkSKSEaNWoM65l90OYxZxOs9YQMqa+b4fR+363BXXSXoC1DTXut2TuqViwPA==
+"@openzeppelin/contracts-upgradeable@4.9.6":
+  version "4.9.6"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.9.6.tgz#38b21708a719da647de4bb0e4802ee235a0d24df"
+  integrity sha512-m4iHazOsOCv1DgM7eD7GupTJ+NFVujRZt1wzddDPSVGpWdKq1SKkla5htKG7+IS4d2XOCtzkUNwRZ7Vq5aEUMA==
 
 "@openzeppelin/contracts@4.5.0":
   version "4.5.0"
