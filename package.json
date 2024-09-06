@@ -25,7 +25,7 @@
     "@nomiclabs/hardhat-waffle": "^2.0.6",
     "@oasisprotocol/sapphire-hardhat": "^2.16.1",
     "@openzeppelin/contracts": "4.5.0",
-    "@openzeppelin/contracts-upgradeable": "4.5.0",
+    "@openzeppelin/contracts-upgradeable": "4.9.6",
     "@openzeppelin/hardhat-upgrades": "^2.1.1",
     "@openzeppelin/upgrades-core": "1.27.3",
     "@typechain/ethers-v5": "^11.1.0",
